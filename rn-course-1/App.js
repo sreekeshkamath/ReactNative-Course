@@ -32,7 +32,7 @@ class App extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Loadedasd last commit asd</Text>
+        <Text>Loadedasd last commit asd ads</Text>
         <PlaceDetail
           selectedPlace={this.props.selectedPlace}
           onItemDeleted={this.placeDeletedHandler}
